@@ -1,2 +1,2 @@
-# data_analytics
-Working with numpy
+# Data Analytics
+Files and projects from learning data analytics. 
